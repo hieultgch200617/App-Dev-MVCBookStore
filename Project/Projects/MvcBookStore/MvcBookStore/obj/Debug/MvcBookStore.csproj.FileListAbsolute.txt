@@ -1,0 +1,340 @@
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe.config
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csc.rsp
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csi.exe
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csi.exe.config
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csi.rsp
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.AppContext.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Console.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Net.Http.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe.config
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\vbc.rsp
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\WebGrease.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.xml
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.xml
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.pdb
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.AssemblyReference.cache
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.CoreCompileInputs.cache
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.CopyComplete
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+C:\Users\namtu\OneDrive\Documents\Web ASP\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe.config
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csc.rsp
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csi.exe
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csi.exe.config
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csi.rsp
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.AppContext.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Console.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Net.Http.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe.config
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\vbc.rsp
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\WebGrease.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.xml
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.xml
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.pdb
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.CoreCompileInputs.cache
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.CopyComplete
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Sitecore.FakeDb.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Sitecore.FakeDb.xml
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\PagedList.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\PagedList.Mvc.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\PagedList.xml
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\PagedList.Mvc.xml
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Glimpse.AspNet.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Glimpse.Core.dll
+C:\Users\namtu\OneDrive\Documents\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.AssemblyReference.cache
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe.config
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csc.rsp
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csi.exe
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csi.exe.config
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csi.rsp
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.AppContext.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Console.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Net.Http.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe.config
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\vbc.rsp
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Glimpse.AspNet.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Glimpse.Core.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\PagedList.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\PagedList.Mvc.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Sitecore.FakeDb.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\WebGrease.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\PagedList.xml
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\PagedList.Mvc.xml
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Sitecore.FakeDb.xml
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.xml
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.xml
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.AssemblyReference.cache
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.CoreCompileInputs.cache
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.CopyComplete
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+C:\Users\Nam Developer\Desktop\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe.config
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csc.rsp
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csi.exe
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csi.exe.config
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\csi.rsp
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Managed.Core.targets
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.AppContext.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Collections.Immutable.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Console.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Globalization.Calendars.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.Compression.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Net.Http.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Net.Sockets.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.ValueTuple.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.XmlDocument.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.XPath.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe.config
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\vbc.rsp
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe.config
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Glimpse.AspNet.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Glimpse.Core.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\PagedList.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\PagedList.Mvc.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Sitecore.FakeDb.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\WebGrease.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\PagedList.xml
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\PagedList.Mvc.xml
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Sitecore.FakeDb.xml
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.xml
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.xml
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.pdb
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.AssemblyReference.cache
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.CoreCompileInputs.cache
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.CopyComplete
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+E:\IT\Application Development\DeTaiASP\Project\Projects\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
